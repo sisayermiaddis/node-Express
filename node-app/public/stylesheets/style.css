@@ -1,0 +1,28 @@
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+.header {
+  padding: 10px;
+  display: flex;
+  align-items: center;
+  max-width: 800px;
+  margin: 0 auto;
+  border-bottom: 2px solid #f2f2f2;
+  color: #f1356d;
+
+}
+
+.welcome{
+  padding: 0px auto;
+  display: flex;
+  max-width: 600px;
+  align-items: center;
+  color:black;
+  margin: 0px auto;
+  border-bottom: 2px solid #f2f2f2;
+  border-radius: 5px solid #f2f2f2;
+}
+a {
+  color: #00B7FF;
+}
